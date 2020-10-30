@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f72e0c99-d019-4933-bd6b-c0d831cb13ea" name="Default Changelist" comment="" />
+    <list default="true" id="f72e0c99-d019-4933-bd6b-c0d831cb13ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +15,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jb9Lakaekqhdu5TsMCIm2vda3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604061868243</updated>
       <workItem from="1604061869298" duration="380000" />
-      <workItem from="1604062367204" duration="7450000" />
+      <workItem from="1604062367204" duration="12532000" />
     </task>
     <servers />
   </component>
@@ -45,5 +54,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.11.1920.1040/1920.190.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604062250934" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1604070434759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/-1920.11.1920.1040/1920.190.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604070434759" />
+    <state x="808" y="218" key="Github.UntrackedFilesDialog" timestamp="1604070462971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="218" key="Github.UntrackedFilesDialog/-1920.11.1920.1040/1920.190.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604070462971" />
   </component>
 </project>
